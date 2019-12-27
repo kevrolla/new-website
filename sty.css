@@ -1,0 +1,119 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    background-color: burlywood;
+}
+h1 {
+    font-size: 70px;
+    margin: 50px auto 0 auto;
+    font-family: 'Metamorphous', cursive;
+    color: brown;
+}
+.font {
+    font-size: 20px;
+    font-weight: normal;
+    color: brown;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: brown;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: brown;
+}
+p {
+line-height: 2;
+}
+hr {
+    border: dotted brown 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a {
+    color: brown;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+a:hover {
+    color: white;
+}
+.top-container {
+    background-color: burlywood;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    padding-top: 50pxpx;
+    margin: 0px 0;
+    background-color: burlywood;
+}
+.bottom-container {
+    background-color: burlywood;
+    padding-left: 50px 0 20px 0;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.picture1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.picture2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.copywrite {
+    color: brown;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn {
+	background:linear-gradient(to bottom, #7d5d3b 5%, #634b30 100%);
+	background-color:#7d5d3b;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #4d3534;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #634b30 5%, #7d5d3b 100%);
+	background-color: brown;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+
+
